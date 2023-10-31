@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Ben 👋
+<!--ABOUT ME SECTION-->
+
+## Research Interests 🧪🔍
+<!--What research I'm working on-->
 
 <!--
 **BenWRees/BenWRees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
